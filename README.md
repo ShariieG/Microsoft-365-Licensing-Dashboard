@@ -30,7 +30,7 @@ The solution combines a live semantic model with a two-page command center layou
 ### Page 1 — Executive Summary
 
 Provides a high-level snapshot of license health across the tenant.
-<img width="1381" height="776" alt="image" src="https://github.com/user-attachments/assets/f4653787-c672-4e67-96b2-429cba7c71cb" />
+<img width="1325" height="784" alt="Gemini_Generated_Image_obagdpobagdpobag" src="https://github.com/user-attachments/assets/57194424-4d41-4899-9b7a-f4829f35169d" />
 
 
 **KPI Cards:**
@@ -164,5 +164,3 @@ DIVIDE(
 - Designed strictly for **portfolio and demonstration purposes**
 
 ---
-
-⭐ If this project is useful for M365 governance, Power BI design, or IT operations dashboards, consider starring the repository.
